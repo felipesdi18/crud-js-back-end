@@ -1,0 +1,32 @@
+//console.log("pengola")
+// console.error("duavbu")
+
+// let pode alterar, o const se alterar dar merda
+// let x = []
+
+// x.push(2,4,5)
+// console.log(x)
+
+// callback = passar função por parametro
+// lista.forEach((value, index) =>  {
+//     console.log("Index: ", index)
+//     console.log("Value: ", value)
+//     console.log()
+// })
+
+// ||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+// let lista = [1,2,3,4,5]
+// let par
+
+// par=lista.filter(value =>{
+//     if(value % 2 !== 0 ){
+//         return false
+//     }
+//     return true
+// })
+
+// console.log(par)
+
+// require = include do C
+SHIFT + ALT + F (INDENTA A PORRA TODA)

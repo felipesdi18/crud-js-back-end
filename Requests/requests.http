@@ -1,0 +1,11 @@
+# http://localhost:3000/
+
+# http://localhost:3000/jsonTeste/
+
+POST http://localhost:3000/new/
+Content-Type: application/json
+
+{
+    "title": "esta es una notita nueva 2",
+    "text": "minha nota é casada e safada"
+    }
